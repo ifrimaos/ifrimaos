@@ -12,7 +12,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 [![SASS Badge](https://img.shields.io/badge/SASS-3670A0.svg?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3670A0)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 
 
