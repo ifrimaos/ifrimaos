@@ -9,7 +9,7 @@
 I'm Cristian and I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 
-- 👯 I’m looking to collaborate on **Front end Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [www.cristianifrim.com](https://www.cristianifrim.com)
 
