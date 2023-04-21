@@ -6,6 +6,7 @@
 
 ### About Me
 
+
 I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, API and design in general. 
 
 
@@ -18,6 +19,7 @@ I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy 
 ---
 
 ### Skills
+
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
@@ -46,6 +48,7 @@ I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy 
   ---
   
   ### Projects
+  
 
   ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifrimaos&show_icons=true&locale=en" alt="ifrimaos" /></p>
