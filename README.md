@@ -26,7 +26,7 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 ### Projects
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifrimaos&label=Profile%20views&color=0e75b6&style=flat" alt="ifrimaos" /> </p>
+
 
 - 👯 I’m looking to collaborate on **Front end Projects**
 
@@ -44,6 +44,8 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifrimaos&show_icons=true&locale=en" alt="ifrimaos" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifrimaos&label=Profile%20views&color=0e75b6&style=flat" alt="ifrimaos" /> </p>
 
 
 
