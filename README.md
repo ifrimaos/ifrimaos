@@ -19,7 +19,6 @@ I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy 
 
 ### Skills
 
-
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![SASS Badge](https://img.shields.io/badge/SASS-3670A0.svg?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3670A0)](#)
@@ -30,8 +29,9 @@ I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy 
 
 ---
 
+### Language and Tools
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
