@@ -30,13 +30,6 @@ I'm Cristian and I really enjoy learning languages and frameworks like React and
 
 ---
 
-### Projects
-
-
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -49,6 +42,10 @@ I'm Cristian and I really enjoy learning languages and frameworks like React and
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>      
   <a href="https://visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> </p>
+  
+  ---
+  
+  ### Projects
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifrimaos&show_icons=true&locale=en" alt="ifrimaos" /></p>
