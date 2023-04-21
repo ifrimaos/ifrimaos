@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-<br>
+
 I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, API and design in general. 
 
 
