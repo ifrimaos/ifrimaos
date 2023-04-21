@@ -8,6 +8,13 @@
 
 I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
+
+- 👯 I’m looking to collaborate on **Front end Projects**
+
+- 👨‍💻 All of my projects are available at [www.cristianifrim.com](https://www.cristianifrim.com)
+
+- 📫 How to reach me **contact@cristianifrim.com**
+
 ---
 
 ### Skills
@@ -28,11 +35,6 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 
 
 
-- 👯 I’m looking to collaborate on **Front end Projects**
-
-- 👨‍💻 All of my projects are available at [www.cristianifrim.com](https://www.cristianifrim.com)
-
-- 📫 How to reach me **contact@cristianifrim.com**
 
 
 
