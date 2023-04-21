@@ -3,7 +3,7 @@
 I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
 
 
-## Skills
+### Skills
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
