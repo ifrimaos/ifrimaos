@@ -47,7 +47,7 @@ I'm Cristian and I really enjoy learning languages and frameworks like React and
   
   ### Projects
 
-
+  ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifrimaos&show_icons=true&locale=en" alt="ifrimaos" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifrimaos&label=Profile%20views&color=0e75b6&style=flat" alt="ifrimaos" /> </p>
