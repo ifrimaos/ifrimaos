@@ -11,9 +11,9 @@ I'm Cristian and I really enjoy learning languages and frameworks. I also enjoy 
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [www.cristianifrim.com](https://www.cristianifrim.com)
+- 👨‍💻 All of my projects are available at : [www.cristianifrim.com](https://www.cristianifrim.com)
 
-- 📫 How to reach me **contact@cristianifrim.com**
+- 📫 How to reach me : **contact@cristianifrim.com**
 
 ---
 
